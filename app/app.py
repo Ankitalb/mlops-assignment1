@@ -3,7 +3,6 @@ from flask import Flask, jsonify, request
 # Create an instance of the Flask class
 app = Flask(__name__)
 
-# Define a route for the homepage
 @app.route('/')
 def home():
     return "Welcome to the Flask app!"
