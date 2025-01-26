@@ -6,8 +6,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import LabelEncoder
 
-DATA_URL = 'data/dataset.csv'
-data = pd.read_csv(DATA_URL)
+
+data = pd.read_csv('data/dataset.csv', skip_blank_lines=True, engine='python')
 df = pd.DataFrame(data)
 
 encoder = LabelEncoder()
