@@ -66,11 +66,6 @@ jobs:
           pip install -r requirements.txt
           pip install dvc
 
-      - name: Pull data from DVC
-        run: |
-          # Make sure to configure DVC remote if needed (skip if already configured)
-          dvc pull
-
       - name: Train model and log with MLflow
         run: |
           python src/train.py
