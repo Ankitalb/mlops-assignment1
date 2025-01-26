@@ -67,7 +67,7 @@ jobs:
 
       - name: Train model and log with MLflow
         run: |
-          python src/train_model.py
+          python src/train.py
           
   deploy_model:
     runs-on: ubuntu-latest
