@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/e52199b0aa0a420d8147b09a4a523ccd/artifacts
+end_time: 1737874649828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e52199b0aa0a420d8147b09a4a523ccd
+run_name: stylish-sponge-182
+run_uuid: e52199b0aa0a420d8147b09a4a523ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737874649765
+status: 4
+tags: []
+user_id: ankita

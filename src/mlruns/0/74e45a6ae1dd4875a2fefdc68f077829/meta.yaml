@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/74e45a6ae1dd4875a2fefdc68f077829/artifacts
+end_time: 1737871265400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e45a6ae1dd4875a2fefdc68f077829
+run_name: judicious-pug-710
+run_uuid: 74e45a6ae1dd4875a2fefdc68f077829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737871235379
+status: 3
+tags: []
+user_id: ankita

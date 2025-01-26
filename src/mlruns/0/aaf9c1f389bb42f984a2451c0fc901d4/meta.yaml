@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/aaf9c1f389bb42f984a2451c0fc901d4/artifacts
+end_time: 1737873177554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaf9c1f389bb42f984a2451c0fc901d4
+run_name: orderly-smelt-930
+run_uuid: aaf9c1f389bb42f984a2451c0fc901d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737873155799
+status: 3
+tags: []
+user_id: ankita
