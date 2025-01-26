@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/d2eb85681b3b41e9809e801903a01688/artifacts
+end_time: 1737873495120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2eb85681b3b41e9809e801903a01688
+run_name: lyrical-newt-365
+run_uuid: d2eb85681b3b41e9809e801903a01688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737873474382
+status: 3
+tags: []
+user_id: ankita

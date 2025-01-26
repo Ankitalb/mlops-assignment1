@@ -1,4 +1,8 @@
 [core]
-    remote = myremote
+    remote = mylocalremote
 ['remote "myremote"']
-    url = https://drive.google.com/file/d/1ahbFe2qE-fijvJ1Mi2oJAjc3RnX3iDSo/view?usp=sharing
+    url = gdrive://1fyJi9V73rWNhdGMVo_IqFq_575RDDXcW
+['remote "mylocalremote"']
+    url = ../dvc-storage
+['remote "remote"']
+    url = ../data

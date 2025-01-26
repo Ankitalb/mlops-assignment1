@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/d3265a61bb6b4670b0cdba855eb6df7e/artifacts
+end_time: 1737870367113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3265a61bb6b4670b0cdba855eb6df7e
+run_name: fearless-tern-205
+run_uuid: d3265a61bb6b4670b0cdba855eb6df7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737870252825
+status: 3
+tags: []
+user_id: ankita

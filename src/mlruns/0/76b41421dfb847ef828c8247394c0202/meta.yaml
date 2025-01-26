@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/76b41421dfb847ef828c8247394c0202/artifacts
+end_time: 1737874807524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76b41421dfb847ef828c8247394c0202
+run_name: kindly-doe-870
+run_uuid: 76b41421dfb847ef828c8247394c0202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737874738473
+status: 3
+tags: []
+user_id: ankita

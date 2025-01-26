@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/01a0a5c76fc74930a3cf8a0c9ea5f98d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01a0a5c76fc74930a3cf8a0c9ea5f98d
+run_name: grandiose-ant-95
+run_uuid: 01a0a5c76fc74930a3cf8a0c9ea5f98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737874339847
+status: 1
+tags: []
+user_id: ankita

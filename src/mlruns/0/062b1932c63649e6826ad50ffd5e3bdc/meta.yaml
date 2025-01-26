@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/062b1932c63649e6826ad50ffd5e3bdc/artifacts
+end_time: 1737874428986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062b1932c63649e6826ad50ffd5e3bdc
+run_name: colorful-duck-507
+run_uuid: 062b1932c63649e6826ad50ffd5e3bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737874368394
+status: 3
+tags: []
+user_id: ankita

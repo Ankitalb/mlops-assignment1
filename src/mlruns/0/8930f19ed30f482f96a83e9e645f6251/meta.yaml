@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ankita/Documents/mlops/Assignement1/src/mlruns/0/8930f19ed30f482f96a83e9e645f6251/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8930f19ed30f482f96a83e9e645f6251
+run_name: clumsy-frog-142
+run_uuid: 8930f19ed30f482f96a83e9e645f6251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737872872071
+status: 1
+tags: []
+user_id: ankita
