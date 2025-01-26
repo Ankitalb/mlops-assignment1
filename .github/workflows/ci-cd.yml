@@ -1,4 +1,4 @@
-name: Local MLflow CI/CD Pipeline
+name: CI/CD Pipeline
 
 on:
   push:
