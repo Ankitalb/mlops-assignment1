@@ -6,13 +6,14 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import LabelEncoder
 
+with open('data/dataset.csv', 'r') as file:
+    for i in range(20):  # Print first 20 lines to inspect
+        print(file.readline())
+
 
 data = pd.read_csv('data/dataset.csv', quotechar='"', skip_blank_lines=True,
                    engine='python')
 df = pd.DataFrame(data)
-with open('data/dataset.csv', 'r') as file:
-    for i in range(20):  # Print first 20 lines to inspect
-        print(file.readline())
 
 encoder = LabelEncoder()
 df['mainroad'] = encoder.fit_transform(df['mainroad'])
