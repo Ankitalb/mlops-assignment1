@@ -9,7 +9,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import LabelEncoder
 
 
-# Load the dataset (Iris dataset for demonstration)
 data = pd.read_csv('C:/Users/ankita/Documents/mlops/Assignement1/data/dataset.csv')
 df = pd.DataFrame(data)
 
